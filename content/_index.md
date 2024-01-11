@@ -129,9 +129,7 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      # text: |-
-      #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # subtitle:
       # Contact (add or remove contact options as necessary)
       email: tjthieme@asiaa.sinica.edu.tw
       # Choose a map provider in `params.yaml` to show a map from these coordinates
