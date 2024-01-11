@@ -34,7 +34,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -66,11 +66,11 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: true
+    enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/travisthieme/travisthieme.github.io'
     content_dir: content
     branch: main
   avatar:
