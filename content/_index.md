@@ -67,8 +67,8 @@ sections:
           company_url: 'http://irtfweb.ifa.hawaii.edu'
           company_logo: org-irtf
           location: Hilo, Hawaii, USA
-          date_start: '2016-02'
-          date_end: '2017-05'
+          date_start: '2016-02-01'
+          date_end: '2017-05-31'
           description: Assist the telescope operator during observations on Mauna Kea. 
     design:
       columns: '1'
