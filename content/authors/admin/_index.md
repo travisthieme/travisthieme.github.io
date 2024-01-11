@@ -22,7 +22,7 @@ organizations:
     url: https://www.asiaa.sinica.edu.tw
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+bio: 
 
 # Interests to show in About widget
 interests:
