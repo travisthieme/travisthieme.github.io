@@ -31,10 +31,10 @@ interests:
   - Magnetic Fields and Non-Ideal MHD
   - Astrochemistry
   - Radio Astronomy
-  design:
-    spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-      padding: ['0', '0', '0', '20px']
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ['0', '0', '0', '20px']
 
 # Education to show in About widget
 education:
