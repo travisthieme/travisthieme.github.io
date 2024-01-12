@@ -27,8 +27,10 @@ bio:
 # Interests to show in About widget
 interests:
   - Star and Planet Formation
-  - Protostellar Disk Formation and Evolution
-  - Magnetic Fields and Non-Ideal MHD
+  - Protostellar Disk Formation 
+  - Protostellar Disk Evolution
+  - Magnetic Fields 
+  - Non-Ideal MHD
   - Astrochemistry
   - Radio Astronomy
 
