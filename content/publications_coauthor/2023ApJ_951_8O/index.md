@@ -104,6 +104,24 @@ links:
 <!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 <sup>**Publication:** The Astrophysical Journal, Volume 951, Issue 1, id.8, 26 pp.</sup>
 
+<!-- 
+ALMA Press Release
+[English](https://www.almaobservatory.org/en/press-releases/alma-digs-deeper-into-the-mystery-of-planet-formation/)
+[Japanese](https://alma-telescope.jp/news/planetformation-202306?doing_wp_cron%253D1705058581.7801489830017089843750)
+NAOJ Press Release
+[English](https://www.nao.ac.jp/en/news/science/2023/20230628-alma.html)
+[Japanese](https://www.nao.ac.jp/news/science/2023/20230628-alma.html)
+ASIAA Press Release
+[Chinese](https://press.asiaa.sinica.edu.tw/chinese/230628)
+University of Tokyo Press Release
+[English](https://www.s.u-tokyo.ac.jp/en/info/8508/)
+[Japanese](https://www.s.u-tokyo.ac.jp/ja/info/8507/)
+University of Michigan Press Release
+[English](https://news.umich.edu/alma-digs-deeper-into-mystery-of-planet-formation/)
+University of Virginia Press Release
+[English](https://as.virginia.edu/astronomers-dig-deeper-mystery-planet-formation)
+ -->
+
 <html>
   <style>
     section {
