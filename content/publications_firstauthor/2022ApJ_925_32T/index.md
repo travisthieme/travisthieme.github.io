@@ -74,7 +74,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 <html>
   <style>
     section {
-        background: white;
+        background: transparent;
         color: black;
         border-radius: 1em;
         padding: 1em;
