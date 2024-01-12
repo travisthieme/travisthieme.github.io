@@ -98,6 +98,7 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: firstauthor
     content:
       title: First Author Publications
       filters:
@@ -108,6 +109,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    id: coauthor
     content:
       title: Co-Author Publications
       filters:
