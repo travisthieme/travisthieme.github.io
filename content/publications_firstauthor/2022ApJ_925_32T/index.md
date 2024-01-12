@@ -31,8 +31,7 @@ abstract: Understanding how material accretes onto the rotationally supported di
 summary: Understanding how material accretes onto the rotationally supported disk from the surrounding envelope of gas and dust in the youngest protostellar systems is important for describing how disks are formed. Magnetohydrodynamic simulations of magnetized, turbulent disk formation usually show spiral-like streams of material (accretion flows) connecting the envelope to the disk. However, accretion flows in these early stages of protostellar formation still remain poorly characterized, due to their low intensity, and possibly some extended structures are disregarded as being part of the outflow cavity. We use ALMA archival data of a young Class 0 protostar, Lupus 3-MMS, to uncover four extended accretion flow-like structures in C<sup>18<sup>O that follow the edges of the outflows.
 
 tags:
-- Accretion Streamers
-- Protostellar Disk Formation and Evolution
+- Streamers
 featured: false
 share: false
 
