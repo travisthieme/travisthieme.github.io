@@ -25,10 +25,10 @@ publication_types: ["article-journal"]
 publication: "*JThe Astrophysical Journal, 1*(1)"
 publication_short: "ApJ"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Understanding how material accretes onto the rotationally supported disk from the surrounding envelope of gas and dust in the youngest protostellar systems is important for describing how disks are formed. Magnetohydrodynamic simulations of magnetized, turbulent disk formation usually show spiral-like streams of material (accretion flows) connecting the envelope to the disk. However, accretion flows in these early stages of protostellar formation still remain poorly characterized, due to their low intensity, and possibly some extended structures are disregarded as being part of the outflow cavity. We use ALMA archival data of a young Class 0 protostar, Lupus 3-MMS, to uncover four extended accretion flow-like structures in C$^{18}$O that follow the edges of the outflows. We make various types of position-velocity cuts to compare with the outflows and find the extended structures are not consistent with the outflow emission, but rather more consistent with a simple infall model. We then use a dendrogram algorithm to isolate five substructures in position-position-velocity space. Four out of the five substructures fit well (>95%) with our simple infall model, with specific angular momenta between 2.7-6.9 × 10-4 km s-1 pc and mass-infall rates of 0.5-1.1 × 10-6 M ⊙ yr-1. Better characterization of the physical structure in the supposed "outflow cavities" is important to disentangle the true outflow cavities and accretion flows.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Understanding how material accretes onto the rotationally supported disk from the surrounding envelope of gas and dust in the youngest protostellar systems is important for describing how disks are formed. 
 
 tags:
 - Source Themes
@@ -38,13 +38,13 @@ links:
 - name: "ADS"
   url: "https://ui.adsabs.harvard.edu/abs/2022ApJ...925...32T/abstract"
 - name: "Publisher HTML"
-  url: "https://ui.adsabs.harvard.edu/abs/2022ApJ...925...32T/abstract"
+  url: "https://iopscience.iop.org/article/10.3847/1538-4357/ac382b"
 - name: "Publisher PDF"
-  url: "https://ui.adsabs.harvard.edu/abs/2022ApJ...925...32T/abstract"
+  url: "https://iopscience.iop.org/article/10.3847/1538-4357/ac382b/pdf"
 - name: "Preprint HTML"
-  url: "https://ui.adsabs.harvard.edu/abs/2022ApJ...925...32T/abstract"
+  url: "https://arxiv.org/abs/2111.04001"
 - name: "Preprint PDF"
-  url: "https://ui.adsabs.harvard.edu/abs/2022ApJ...925...32T/abstract"
+  url: "https://arxiv.org/pdf/2111.04001.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -58,14 +58,14 @@ links:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
