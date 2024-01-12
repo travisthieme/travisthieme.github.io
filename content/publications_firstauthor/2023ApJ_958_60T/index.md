@@ -47,6 +47,7 @@ abstract: Protostellar disks are an ubiquitous part of the star formation proces
 summary: Protostellar disks are an ubiquitous part of the star formation process and the future sites of planet formation. As part of the Early Planet Formation in Embedded Disks large program, we present high angular resolution dust continuum (~40 mas) and molecular line (~150 mas) observations of the Class 0 protostar IRAS 15398-3359.
 
 tags:
+- Class 0 Protostar
 - Protostellar Disks
 - eDisk Large Program
 featured: false
