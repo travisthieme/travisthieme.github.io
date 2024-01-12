@@ -75,8 +75,6 @@ links:
 - name: "Preprint PDF"
   url: "https://arxiv.org/pdf/2306.15406.pdf"
 
-<span class="__dimensions_badge_embed__" data-doi="10.3847/1538-4357/acd384" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # image:
