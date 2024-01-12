@@ -93,7 +93,7 @@ links:
 <html>
   <style>
     section {
-        background: white;
+        background: light-dark(ghostwhite, darkslategray);
         color: black;
         border-radius: 1em;
         padding: 1em;
