@@ -99,14 +99,20 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: First Author Publications
       filters:
         folders:
-          - publication
+          - publications_firstauthor
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    content:
+      title: Co-Author Publications
+      filters:
+        folders:
+          - publications_coauthor
         exclude_featured: true
     design:
       columns: '2'
