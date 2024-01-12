@@ -97,7 +97,8 @@ links:
 # slides: example
 ---
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+<sup>**Publication:** The Astrophysical Journal, Volume 951, Issue 1, id.8, 26 pp.</sup>
 
 <html>
   <style>
@@ -119,7 +120,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
         <span style="float:center"; 
           class="__dimensions_badge_embed__" 
           data-doi="10.3847/1538-4357/acd384" 
-          data-hide-zero-citations="true" 
+          data-hide-zero-citations="false" 
           data-legend="always">
         </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
