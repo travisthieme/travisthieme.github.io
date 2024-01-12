@@ -27,7 +27,7 @@ authors:
 - Shigehisa Takakuwa
 - Hsi-Wei Yen
 date: "2023-11-13T00:00:00Z"
-doi: ""
+doi: "10.3847/1538-4357/ad003a"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-11-13T00:00:00Z"
