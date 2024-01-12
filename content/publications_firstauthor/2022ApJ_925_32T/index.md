@@ -74,7 +74,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 <html>
   <style>
     section {
-        background: transparent;
+        background: white;
         color: black;
         border-radius: 1em;
         padding: 1em;
@@ -95,14 +95,5 @@ Add the publication's **full text** or **supplementary notes** here. You can use
           data-legend="always">
         </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <!-- <div  style="float:right"; 
-          data-link-target="_blank" 
-          data-badge-details="right" 
-          data-badge-type="medium-donut"
-          data-doi="10.3847/1538-4357/ac382b"   
-          data-condensed="true" 
-          data-hide-no-mentions="true" 
-          class="altmetric-embed">
-        </div> -->
     </div>
   </section>
