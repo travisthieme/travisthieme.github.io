@@ -62,7 +62,31 @@ sections:
           location: Taipei, Taiwan
           date_start: '2023-01-02'
           date_end: ''
-          description: Investigating protostellar disk formation and evolution.
+          description: Investigating protostellar disk formation and evolution. (Supervisor: Dr. Hsi-Wei Yen)
+        - title: Graduate Research Assistant
+          company: Institute of Astronomy, National Tsing Hua University
+          company_url: 'http://www.astr.nthu.edu.tw/?Lang=en'
+          company_logo: org-nthu
+          location: Hsinchu, Taiwan
+          date_start: '2017-09-01'
+          date_end: '2023-06-30'
+          description: PhD thesis research on the formation and evolution of protostellar disks via Keplerian rotation, streamers, and non-ideal MHD. (Advisor: Dr. Shih-Ping Lai)
+        - title: Hawaii Space Grant Consortium Undergraduate Research Internship
+          company: Univiersity of Hawaii at Hilo
+          company_url: 'http://www.spacegrant.hawaii.edu'
+          company_logo: org-uhh
+          location: Hilo, Hawaii, USA
+          date_start: '2016-08-01'
+          date_end: '2017-05-31'
+          description: Undergraduate research on the small-scale physical properties of nebulae in nearby disk galaxies. 
+        - title: Akamai Workforce Initiative Summer Internship Program
+          company: Smithsonian Astrophysical Observatory, Submillimeter Array
+          company_url: 'https://www.akamaihawaii.org'
+          company_logo: org-sma
+          location: Hilo, Hawaii, USA
+          date_start: '2016-06-01'
+          date_end: '2016-08-31'
+          description: Undergraduate research on modeling the effects of magnetic fields on the gravitational collapse of young, low-mass protostars. 
         - title: Night Attendant
           company: NASA Infrared Telescope Facility
           company_url: 'http://irtfweb.ifa.hawaii.edu'
