@@ -30,11 +30,11 @@ authors:
 - Jonathan P. Williams
 - Yoshihide Yamato
 - Hsi-Wei Yen
-date: "2023-06-28T00:00:00Z"
+date: "2023-06-28T01:00:00Z"
 # doi: "10.3847/1538-4357/acd5c9"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-06-28T00:00:00Z"
+publishDate: "2023-06-28T01:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
