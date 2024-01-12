@@ -37,16 +37,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Astronomy
+    - course: Ph.D. in Astronomy
       institution: National Tsing Hua University
       year: 2023
-    - course: BS in Astronomy
+    - course: B.S. in Astronomy
       institution: University of Hawaii at Hilo
       year: 2017
-    - course: BA in Physics
+    - course: B.A. in Physics
       institution: University of Hawaii at Hilo
       year: 2017
-    - course: AS in Physics
+    - course: A.S. in Physics
       institution: Edmonds Community College
       year: 2015
 
