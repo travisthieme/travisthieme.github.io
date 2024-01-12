@@ -33,10 +33,6 @@ interests:
   - Non-Ideal MHD
   - Astrochemistry
   - Radio Astronomy
-  design:
-    spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-      padding: ['0', '20px', '0', '0']
 
 # Education to show in About widget
 education:
