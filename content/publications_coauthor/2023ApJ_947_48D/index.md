@@ -6,7 +6,7 @@ authors:
 - Naomi Hirano
 - admin
 date: "2023-04-19T00:00:00Z"
-doi: "10.3847/1538-4357/acb531"
+# doi: "10.3847/1538-4357/acb531"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-04-19T00:00:00Z"
