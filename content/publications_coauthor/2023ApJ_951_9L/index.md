@@ -51,7 +51,7 @@ abstract: While dust disks around optically visible, Class II protostars are fou
 summary: While dust disks around optically visible, Class II protostars are found to be vertically thin, when and how dust settles to the midplane are unclear. As part of the Atacama Large Millimeter/submillimeter Array large program, Early Planet Formation in Embedded Disks, we analyze the edge-on, embedded, Class I protostar IRAS 04302+2247, also nicknamed the "Butterfly Star.
 
 tags:
-- Class 0 Protostar
+- Class I Protostar
 - Protostellar Disks
 - eDisk Large Program
 featured: false

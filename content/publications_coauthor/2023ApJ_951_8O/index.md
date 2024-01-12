@@ -60,6 +60,7 @@ summary: We present an overview of the Large Program, "Early Planet Formation in
 
 tags:
 - Class 0 Protostar
+- Class I Protostar
 - Protostellar Disks
 - eDisk Large Program
 featured: false
