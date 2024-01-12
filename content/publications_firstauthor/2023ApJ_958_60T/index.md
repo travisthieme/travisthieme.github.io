@@ -49,6 +49,7 @@ summary: Protostellar disks are an ubiquitous part of the star formation process
 tags:
 - Source Themes
 featured: false
+share: false
 
 links:
 - name: "ADS"
