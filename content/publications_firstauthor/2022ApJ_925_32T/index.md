@@ -72,7 +72,7 @@ links:
 ---
 
 <!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
-
+**Publication:** The Astrophysical Journal, Volume 925, Issue 1, id.32, 18 pp.
 
 <html>
   <style>
