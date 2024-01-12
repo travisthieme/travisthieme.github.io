@@ -72,7 +72,6 @@ links:
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 
-### Paper Statistics
 <html>
   <style>
     section {
@@ -96,8 +95,8 @@ Add the publication's **full text** or **supplementary notes** here. You can use
           data-hide-zero-citations="true" 
           data-legend="always">
         </span>
-      <!-- <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div  style="float:right"; 
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <!-- <div  style="float:right"; 
           data-link-target="_blank" 
           data-badge-details="right" 
           data-badge-type="medium-donut"
