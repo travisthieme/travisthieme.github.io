@@ -104,7 +104,7 @@ sections:
       filters:
         folders:
           - publications_firstauthor
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
@@ -115,7 +115,7 @@ sections:
       filters:
         folders:
           - publications_coauthor
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
