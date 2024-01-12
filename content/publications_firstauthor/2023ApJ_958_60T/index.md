@@ -63,8 +63,6 @@ links:
   url: "https://arxiv.org/abs/2310.12453"
 - name: "Preprint PDF"
   url: "https://arxiv.org/pdf/2310.12453.pdf"
-- name: "Press Release (ALMA)"
-  url: "https://www.almaobservatory.org/en/press-releases/alma-digs-deeper-into-the-mystery-of-planet-formation/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
