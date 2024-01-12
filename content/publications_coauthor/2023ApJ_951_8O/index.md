@@ -59,7 +59,8 @@ abstract: We present an overview of the Large Program, "Early Planet Formation i
 summary: We present an overview of the Large Program, "Early Planet Formation in Embedded Disks (eDisk)," conducted with the Atacama Large Millimeter/submillimeter Array (ALMA). The ubiquitous detections of substructures, particularly rings and gaps, in protoplanetary disks around T Tauri stars raise the possibility that at least some planet formation may have already started during the embedded stages of star formation. In order to address exactly how and when planet formation is initiated, the program focuses on searching for substructures in disks around 12 Class 0 and 7 Class I protostars in nearby (<200 pc) star-forming regions through 1.3 mm continuum observations at a resolution of ~7 au (0.″04).
 
 tags:
-- Source Themes
+- Protostellar Disks
+- eDisk Large Program
 featured: false
 share: false
 
