@@ -86,7 +86,7 @@ sections:
           location: Hilo, Hawaii, USA
           date_start: '2016-06-01'
           date_end: '2016-08-31'
-          description: Undergraduate research on modeling the effects of magnetic fields on the gravitational collapse. (Advised by Dr. Ramprassad Rao)
+          description: Undergraduate research on modeling the effects of magnetic fields on gravitational collapse. (Advised by Dr. Ramprassad Rao)
         - title: Night Attendant
           company: NASA Infrared Telescope Facility
           company_url: 'http://irtfweb.ifa.hawaii.edu'
