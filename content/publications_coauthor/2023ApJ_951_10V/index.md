@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Early Planet Formation in Embedded Disks (eDisk). III. A First High-resolution View of Submillimeter Continuum and Molecular Line Emission toward the Class 0 Protostar L1527 IRS"
 authors:
