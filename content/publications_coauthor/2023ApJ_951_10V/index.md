@@ -91,7 +91,7 @@ links:
 ---
 
 <!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
-<sup>**Publication:**  The Astrophysical Journal, Volume 951, Issue 1, id.11, 20 pp.</sup>
+<sup>**Publication:**  The Astrophysical Journal, Volume 951, Issue 1, id.10, 29 pp.</sup>
 
 <html>
   <style>
