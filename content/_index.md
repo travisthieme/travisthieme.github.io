@@ -72,7 +72,7 @@ sections:
           date_end: '2023-06-30'
           description: PhD thesis research on the formation and evolution of protostellar disks via Keplerian rotation, streamers, and non-ideal MHD. (Advised by Dr. Shih-Ping Lai)
         - title: Hawaii Space Grant Consortium Undergraduate Research Internship
-          company: Univiersity of Hawaii at Hilo
+          company: Department of Physics & Astronomy, Univiersity of Hawaii at Hilo
           company_url: 'http://www.spacegrant.hawaii.edu'
           company_logo: org-uhh
           location: Hilo, Hawaii, USA
