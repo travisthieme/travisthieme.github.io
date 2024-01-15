@@ -58,15 +58,15 @@ share: false
 
 links:
 - name: "ADS"
-  url: "https://ui.adsabs.harvard.edu/abs/2023ApJ...951...11Y/abstract"
+  url: "https://ui.adsabs.harvard.edu/abs/2023ApJ...951...10V/abstract"
 - name: "Publisher HTML"
-  url: "https://iopscience.iop.org/article/10.3847/1538-4357/accd71"
+  url: "https://iopscience.iop.org/article/10.3847/1538-4357/accf87"
 - name: "Publisher PDF"
-  url: "https://iopscience.iop.org/article/10.3847/1538-4357/accd71/pdf"
+  url: "https://iopscience.iop.org/article/10.3847/1538-4357/accf87/pdf"
 - name: "Preprint HTML"
-  url: "https://arxiv.org/abs/2306.15408"
+  url: "https://arxiv.org/abs/2306.15407"
 - name: "Preprint PDF"
-  url: "https://arxiv.org/pdf/2306.15408.pdf"
+  url: "https://arxiv.org/pdf/2306.15407.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
