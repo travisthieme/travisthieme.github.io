@@ -1,5 +1,5 @@
 ---
-title: "Early Planet Formation in Embedded Disks (eDisk). VIII. A Small Protostellar Disk around the Extremely Low Mass and Young Class 0 Protostar IRAS 15398-3359"
+title: "The First Estimation of the Ambipolar Diffusivity Coefficient from Multi-scale Observations of the Class 0/I Protostar, HOPS-370"
 authors:
 - admin
 - Shih-Ping Lai
