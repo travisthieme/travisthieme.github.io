@@ -89,7 +89,7 @@ links:
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
         <span style="float:center"; 
           class="__dimensions_badge_embed__" 
-          data-doi="10.3847/1538-4357/ad003a" 
+          data-doi="10.3847/1538-4357/ad4297" 
           data-hide-zero-citations="false" 
           data-legend="always">
         </span>
