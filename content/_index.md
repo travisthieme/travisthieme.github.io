@@ -60,7 +60,7 @@ sections:
           company_url: 'https://www.asiaa.sinica.edu.tw/index.php'
           company_logo: org-asiaa
           location: Taipei, Taiwan
-          date_start: '2023-01-02'
+          date_start: '2024-01-02'
           date_end: ''
           description: Investigating protostellar disk formation and evolution. (Supervised by Dr. Hsi-Wei Yen)
         - title: Graduate Research Assistant
