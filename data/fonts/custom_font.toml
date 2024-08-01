@@ -1,7 +1,7 @@
 # Font style metadata
 name = "custom"
 # Optional Google font URL
-google_fonts = "family=Montserrat:wght@200;400&family=Roboto+Mono&family=Roboto:wght@200;400"
+google_fonts = "family=Montserrat:wght@100;300&family=Roboto+Mono&family=Roboto:wght@100;300"
 
 # Font families
 heading_font = "Montserrat"
