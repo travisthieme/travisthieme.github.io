@@ -122,7 +122,7 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: list
+      view: compact
   - block: contact
     id: contact
     content:
