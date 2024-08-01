@@ -115,7 +115,7 @@ sections:
       filters:
         folders:
           - publications_coauthor
-        exclude_featured: false
+        exclude_featured: true
     design:
       columns: '2'
       view: citation
