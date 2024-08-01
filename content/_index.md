@@ -106,6 +106,7 @@ sections:
         folders:
           - publications_firstauthor
         featured_only: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
@@ -118,6 +119,7 @@ sections:
         folders:
           - publications_coauthor
         featured_only: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
