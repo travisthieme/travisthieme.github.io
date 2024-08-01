@@ -101,11 +101,11 @@ sections:
     id: firstauthor
     content:
       title: First Author Publications
-      subtitle: '(showing featured publications only)'
+      subtitle: '(most recent shown first)'
       filters:
         folders:
           - publications_firstauthor
-        featured_only: true
+        featured_only: false
         exclude_featured: false
     design:
       columns: '2'
@@ -114,15 +114,15 @@ sections:
     id: coauthor
     content:
       title: Co-Author Publications
-      subtitle: '(showing featured publications only)'
+      subtitle: '(most recent shown first)'
       filters:
         folders:
           - publications_coauthor
-        featured_only: true
+        featured_only: false
         exclude_featured: false
     design:
       columns: '2'
-      view: citation
+      view: list
   - block: contact
     id: contact
     content:
