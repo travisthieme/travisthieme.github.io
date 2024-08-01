@@ -32,7 +32,7 @@ tags:
 - Class 0 Protostar
 - Protostellar Disks
 - Non-Ideal MHD
-featured: false
+featured: true
 share: false
 
 links:

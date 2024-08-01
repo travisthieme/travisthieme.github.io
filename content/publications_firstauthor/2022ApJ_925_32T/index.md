@@ -36,7 +36,7 @@ summary:
 tags:
 - Class 0 Protostar
 - Streamers
-featured: false
+featured: true
 share: false
 
 links:
