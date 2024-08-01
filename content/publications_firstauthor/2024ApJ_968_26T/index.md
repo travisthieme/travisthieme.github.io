@@ -26,7 +26,7 @@ abstract:
 
 # Summary. An optional shortened abstract.
 summary: 
-# Protostars are born in magnetized environments. As a consequence, the formation of protostellar disks can be suppressed by the magnetic field, efficiently removing the angular momentum of the infalling material. Nonideal MHD effects are proposed as one way to allow protostellar disks to form. Thus, it is important to understand their contributions to observations of protostellar systems. We derive an analytical equation to estimate the ambipolar diffusivity coefficient at the edge of the protostellar disk in the Class 0/I protostar, HOPS-370, for the first time, under the assumption that the disk radius is set by ambipolar diffusion.
+# Protostars are born in magnetized environments. As a consequence, the formation of protostellar disks can be suppressed by the magnetic field, efficiently removing the angular momentum of the infalling material. Nonideal MHD effects are proposed as one way to allow protostellar disks to form. Thus, it is important to understand their contributions to observations of protostellar systems. We derive an analytical equation to estimate the ambipolar diffusivity coefficient at the edge of the protostellar disk in the Class 0/I protostar, HOPS-370, for the first time, under the assumption that the disk radius is set by ambipolar diffusion. These results demonstrate a new methodology to understand nonideal MHD effects in observations of protostellar disks. More detailed modeling of the magnetic field, envelope, and microphysics, along with a larger sample of protostellar systems, is needed to further understand the contributions of nonideal MHD.
 
 tags:
 - Class 0 Protostar
@@ -74,7 +74,7 @@ links:
 
 ### Summary
 <span style="font-size:0.75em;">
-Protostars are born in magnetized environments. As a consequence, the formation of protostellar disks can be suppressed by the magnetic field, efficiently removing the angular momentum of the infalling material. Nonideal MHD effects are proposed as one way to allow protostellar disks to form. Thus, it is important to understand their contributions to observations of protostellar systems. We derive an analytical equation to estimate the ambipolar diffusivity coefficient at the edge of the protostellar disk in the Class 0/I protostar, HOPS-370, for the first time, under the assumption that the disk radius is set by ambipolar diffusion.
+Protostars are born in magnetized environments. As a consequence, the formation of protostellar disks can be suppressed by the magnetic field, efficiently removing the angular momentum of the infalling material. Nonideal MHD effects are proposed as one way to allow protostellar disks to form. Thus, it is important to understand their contributions to observations of protostellar systems. We derive an analytical equation to estimate the ambipolar diffusivity coefficient at the edge of the protostellar disk in the Class 0/I protostar, HOPS-370, for the first time, under the assumption that the disk radius is set by ambipolar diffusion. These results demonstrate a new methodology to understand nonideal MHD effects in observations of protostellar disks. More detailed modeling of the magnetic field, envelope, and microphysics, along with a larger sample of protostellar systems, is needed to further understand the contributions of nonideal MHD.
 </span>
 
 <html>
