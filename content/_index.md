@@ -101,6 +101,7 @@ sections:
     id: firstauthor
     content:
       title: First Author Publications
+      subtitle: 'featured'
       filters:
         folders:
           - publications_firstauthor
@@ -112,6 +113,7 @@ sections:
     id: coauthor
     content:
       title: Co-Author Publications
+      subtitle: 'featured'
       filters:
         folders:
           - publications_coauthor
