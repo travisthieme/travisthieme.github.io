@@ -41,7 +41,7 @@ publication_short: "ApJ"
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: We present high-resolution high-sensitivity observations of the Class 0 protostar RCrA IRS5N as part of the Atacama Large Milimeter/submilimeter Array large program Early Planet Formation in Embedded Disks. The 1.3 mm continuum emission reveals a flattened continuum structure around IRS5N, consistent with a protostellar disk in the early phases of evolution. The continuum emission appears smooth and shows no substructures. However, a brightness asymmetry is observed along the minor axis of the disk, suggesting that the disk is optically and geometrically thick. We find that the disk of IRS5N exhibits characteristics consistent with Keplerian rotation. Due to this substantial surrounding envelope, the central IRS5N protostar is expected to be significantly more massive in the future.
 
 tags:
 - Class 0 Protostar

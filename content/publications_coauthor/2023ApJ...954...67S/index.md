@@ -47,7 +47,7 @@ publication_short: "ApJ"
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: We have observed the Class 0/I protostellar system Ced110 IRS4 at an angular resolution of 0.″05 (∼10 au) as part of the Atacama Large Millimeter/submillimeter Array large program, Early Planet Formation in Embedded Disks. A rotation curve analysis on the C<sup>18</sup>O and <sup>13</sup>CO J = 2–1 lines reveals the presence of a Keplerian disk within a radius of 120 au around Ced110 IRS4A, which supports the interpretation that the dust continuum emission arises from a disk. The ring-like structure in the dust continuum emission might indicate a possible annular substructure in the surface density of the embedded disk, although the possibility that it is an apparent structure due to the optically thick continuum emission cannot be ruled out.
 
 tags:
 - Class 0/I Protostar

@@ -43,10 +43,10 @@ publication_types: ["article-journal"]
 publication: "*The Astrophysical Journal*"
 publication_short: "ApJ"
 
-abstract: 
+# abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 
+# summary: 
 
 tags:
 - Class 0 Protostar
