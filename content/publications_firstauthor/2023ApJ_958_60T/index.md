@@ -93,7 +93,7 @@ links:
 <sup>**Publication:** The Astrophysical Journal, Volume 958, Issue 1, id.60, 22 pp.</sup>
 
 ### Summary
-<span style="font-size:0.75em;">
+<span style="font-size:0.8em; text-align:justify; text-justify:inter-word; display:block">
 Protostellar disks are an ubiquitous part of the star formation process and the future sites of planet formation. As part of the Early Planet Formation in Embedded Disks large program, we present high angular resolution dust continuum (~40 mas) and molecular line (~150 mas) observations of the Class 0 protostar IRAS 15398-3359. This study highlights the importance of high-resolution observations and systematic fitting procedures when deriving dynamical properties of deeply embedded Class 0 protostars.
 </span>
 

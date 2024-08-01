@@ -70,7 +70,7 @@ links:
 <sup>**Publication:** The Astrophysical Journal, Volume 947, Issue 2, id.48, 17 pp.</sup>
 
 ### Summary
-<span style="font-size:0.75em;">
+<span style="font-size:0.8em; text-align:justify; text-justify:inter-word; display:block">
 A first hydrostatic core (FHC) is proposed to form after the initial collapse of a prestellar core, as a seed of a Class 0 protostar. FHCs are difficult to observe because they are small, compact, embedded, and short lived. In this work, we explored the physical properties of two well-known FHC candidates, B1-bN and B1-bS, by comparing interferometric data from Submillimeter Array (SMA) 1.1 and 1.3 mm and Atacama Large Millimeter/submillimeter Array (ALMA) 870 μm observations with simulated synthesis images of the two sources. We suggest that B1-bS may have started the collapsing process earlier compared to B1-bN, since a larger discontinuity point is found in its density profile.
 </span>
 
