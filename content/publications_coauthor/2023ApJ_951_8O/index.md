@@ -65,7 +65,7 @@ tags:
 - Class I Protostar
 - Protostellar Disks
 - eDisk Large Program
-featured: false
+featured: true
 share: false
 
 links:
