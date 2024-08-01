@@ -109,7 +109,7 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: compact
+      view: list
   - block: collection
     id: coauthor
     content:
@@ -122,7 +122,7 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: compact
+      view: list
     content:
       archive:
         enable: true
