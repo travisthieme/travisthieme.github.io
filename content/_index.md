@@ -123,6 +123,11 @@ sections:
     design:
       columns: '2'
       view: compact
+    content:
+      archive:
+        enable: true
+        text: See all co-author papers
+        link: coauthor/
   - block: contact
     id: contact
     content:
