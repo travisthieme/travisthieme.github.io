@@ -109,7 +109,7 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: list
+      view: compact
   - block: collection
     id: coauthor
     content:
@@ -120,14 +120,13 @@ sections:
           - publications_coauthor
         featured_only: false
         exclude_featured: false
-    design:
-      columns: '2'
-      view: list
-    content:
       archive:
         enable: true
         text: See all co-author papers
         link: coauthor/
+    design:
+      columns: '2'
+      view: compact
   - block: contact
     id: contact
     content:
