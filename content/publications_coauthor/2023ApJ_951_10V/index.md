@@ -44,10 +44,12 @@ publication_types: ["article-journal"]
 publication: "*The Astrophysical Journal*"
 publication_short: "ApJ"
 
-abstract: Studying the physical and chemical conditions of young embedded disks is crucial to constrain the initial conditions for planet formation. Here we present Atacama Large Millimeter/submillimeter Array observations of dust continuum at ~0.″06 (8 au) resolution and molecular line emission at ~0.″17 (24 au) resolution toward the Class 0 protostar L1527 IRS from the Large Program eDisk (Early Planet Formation in Embedded Disks). The continuum emission is smooth without substructures but asymmetric along both the major and minor axes of the disk as previously observed. The detected lines of 12CO, 13CO, C18O, H2CO, c-C3H2, SO, SiO, and DCN trace different components of the protostellar system, with a disk wind potentially visible in 12CO. The 13CO brightness temperature and the H2CO line ratio confirm that the disk is too warm for CO freezeout, with the snowline located at ~350 au in the envelope. Both molecules show potential evidence of a temperature increase around the disk-envelope interface. SO seems to originate predominantly in UV-irradiated regions such as the disk surface and the outflow cavity walls rather than at the disk-envelope interface as previously suggested. Finally, the continuum asymmetry along the minor axis is consistent with the inclination derived from the large-scale (100″ or 14,000 au) outflow, but opposite to that based on the molecular jet and envelope emission, suggesting a misalignment in the system. Overall, these results highlight the importance of observing multiple molecular species in multiple transitions to characterize the physical and chemical environment of young disks.
+abstract: 
+# Studying the physical and chemical conditions of young embedded disks is crucial to constrain the initial conditions for planet formation. Here we present Atacama Large Millimeter/submillimeter Array observations of dust continuum at ~0.″06 (8 au) resolution and molecular line emission at ~0.″17 (24 au) resolution toward the Class 0 protostar L1527 IRS from the Large Program eDisk (Early Planet Formation in Embedded Disks). The continuum emission is smooth without substructures but asymmetric along both the major and minor axes of the disk as previously observed. The detected lines of 12CO, 13CO, C18O, H2CO, c-C3H2, SO, SiO, and DCN trace different components of the protostellar system, with a disk wind potentially visible in 12CO. The 13CO brightness temperature and the H2CO line ratio confirm that the disk is too warm for CO freezeout, with the snowline located at ~350 au in the envelope. Both molecules show potential evidence of a temperature increase around the disk-envelope interface. SO seems to originate predominantly in UV-irradiated regions such as the disk surface and the outflow cavity walls rather than at the disk-envelope interface as previously suggested. Finally, the continuum asymmetry along the minor axis is consistent with the inclination derived from the large-scale (100″ or 14,000 au) outflow, but opposite to that based on the molecular jet and envelope emission, suggesting a misalignment in the system. Overall, these results highlight the importance of observing multiple molecular species in multiple transitions to characterize the physical and chemical environment of young disks.
 
 # Summary. An optional shortened abstract.
-summary: Studying the physical and chemical conditions of young embedded disks is crucial to constrain the initial conditions for planet formation. Here we present Atacama Large Millimeter/submillimeter Array observations of dust continuum at ~0.″06 (8 au) resolution and molecular line emission at ~0.″17 (24 au) resolution toward the Class 0 protostar L1527 IRS from the Large Program eDisk (Early Planet Formation in Embedded Disks).
+summary: 
+# Studying the physical and chemical conditions of young embedded disks is crucial to constrain the initial conditions for planet formation. Here we present Atacama Large Millimeter/submillimeter Array observations of dust continuum at ~0.″06 (8 au) resolution and molecular line emission at ~0.″17 (24 au) resolution toward the Class 0 protostar L1527 IRS from the Large Program eDisk (Early Planet Formation in Embedded Disks).
 
 tags:
 - Class 0 Protostar
@@ -91,7 +93,14 @@ links:
 ---
 
 <!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
-<sup>**Publication:**  The Astrophysical Journal, Volume 951, Issue 1, id.10, 29 pp.</sup>
+<span style="font-size:0.65em;">
+<strong>Publication:</strong> The Astrophysical Journal, Volume 951, Issue 1, id.10, 29 pp.
+</span>
+
+### Summary
+<span style="font-size:0.75em; text-align:justify; text-justify:inter-word; display:block">
+Studying the physical and chemical conditions of young embedded disks is crucial to constrain the initial conditions for planet formation. Here we present Atacama Large Millimeter/submillimeter Array observations of dust continuum at ~0.″06 (8 au) resolution and molecular line emission at ~0.″17 (24 au) resolution toward the Class 0 protostar L1527 IRS from the Large Program eDisk (Early Planet Formation in Embedded Disks). Overall, these results highlight the importance of observing multiple molecular species in multiple transitions to characterize the physical and chemical environment of young disks.
+</span>
 
 <html>
   <style>

@@ -45,10 +45,12 @@ publication_types: ["article-journal"]
 publication: "*The Astrophysical Journal*"
 publication_short: "ApJ"
 
-abstract: While dust disks around optically visible, Class II protostars are found to be vertically thin, when and how dust settles to the midplane are unclear. As part of the Atacama Large Millimeter/submillimeter Array large program, Early Planet Formation in Embedded Disks, we analyze the edge-on, embedded, Class I protostar IRAS 04302+2247, also nicknamed the "Butterfly Star." With a resolution of 0.″05 (8 au), the 1.3 mm continuum shows an asymmetry along the minor axis that is evidence of an optically thick and geometrically thick disk viewed nearly edge-on. There is no evidence of rings and gaps, which could be due to the lack of radial substructure or the highly inclined and optically thick view. With 0.″1 (16 au) resolution, we resolve the 2D snow surfaces, i.e., the boundary region between freeze-out and sublimation, for 12CO J = 2-1, 13CO J = 2-1, C18O J = 2-1, H 2CO J = 30,3-20,2, and SO J = 65-54, and constrain the CO midplane snow line to ~130 au. We find Keplerian rotation around a protostar of 1.6 ± 0.4 M ⊙ using C18O. Through forward ray-tracing using RADMC-3D, we find that the dust scale height is ~6 au at a radius of 100 au from the central star and is comparable to the gas pressure scale height. The results suggest that the dust of this Class I source has yet to vertically settle significantly.
+abstract: 
+# While dust disks around optically visible, Class II protostars are found to be vertically thin, when and how dust settles to the midplane are unclear. As part of the Atacama Large Millimeter/submillimeter Array large program, Early Planet Formation in Embedded Disks, we analyze the edge-on, embedded, Class I protostar IRAS 04302+2247, also nicknamed the "Butterfly Star." With a resolution of 0.″05 (8 au), the 1.3 mm continuum shows an asymmetry along the minor axis that is evidence of an optically thick and geometrically thick disk viewed nearly edge-on. There is no evidence of rings and gaps, which could be due to the lack of radial substructure or the highly inclined and optically thick view. With 0.″1 (16 au) resolution, we resolve the 2D snow surfaces, i.e., the boundary region between freeze-out and sublimation, for 12CO J = 2-1, 13CO J = 2-1, C18O J = 2-1, H 2CO J = 30,3-20,2, and SO J = 65-54, and constrain the CO midplane snow line to ~130 au. We find Keplerian rotation around a protostar of 1.6 ± 0.4 M ⊙ using C18O. Through forward ray-tracing using RADMC-3D, we find that the dust scale height is ~6 au at a radius of 100 au from the central star and is comparable to the gas pressure scale height. The results suggest that the dust of this Class I source has yet to vertically settle significantly.
 
 # Summary. An optional shortened abstract.
-summary: While dust disks around optically visible, Class II protostars are found to be vertically thin, when and how dust settles to the midplane are unclear. As part of the Atacama Large Millimeter/submillimeter Array large program, Early Planet Formation in Embedded Disks, we analyze the edge-on, embedded, Class I protostar IRAS 04302+2247, also nicknamed the "Butterfly Star.
+summary: 
+# While dust disks around optically visible, Class II protostars are found to be vertically thin, when and how dust settles to the midplane are unclear. As part of the Atacama Large Millimeter/submillimeter Array large program, Early Planet Formation in Embedded Disks, we analyze the edge-on, embedded, Class I protostar IRAS 04302+2247, also nicknamed the "Butterfly Star.
 
 tags:
 - Class I Protostar
@@ -92,7 +94,14 @@ links:
 ---
 
 <!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
-<sup>**Publication:** The Astrophysical Journal, Volume 951, Issue 1, id.9, 26 pp.</sup>
+<span style="font-size:0.65em;">
+<strong>Publication:</strong> The Astrophysical Journal, Volume 951, Issue 1, id.9, 26 pp.
+</span>
+
+### Summary
+<span style="font-size:0.75em; text-align:justify; text-justify:inter-word; display:block">
+While dust disks around optically visible, Class II protostars are found to be vertically thin, when and how dust settles to the midplane are unclear. As part of the Atacama Large Millimeter/submillimeter Array large program, Early Planet Formation in Embedded Disks, we analyze the edge-on, embedded, Class I protostar IRAS 04302+2247, also nicknamed the "Butterfly Star. The results suggest that the dust of this Class I source has yet to vertically settle significantly.
+</span>
 
 <html>
   <style>

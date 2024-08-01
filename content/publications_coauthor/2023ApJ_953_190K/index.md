@@ -52,10 +52,12 @@ publication_types: ["article-journal"]
 publication: "*The Astrophysical Journal*"
 publication_short: "ApJ"
 
-abstract: We present observations of the Class 0 protostar IRAS 16544-1604 in CB 68 from the "Early Planet Formation in Embedded Disks (eDisk)" ALMA Large program. The ALMA observations target continuum and lines at 1.3 mm with an angular resolution of ~5 au. The continuum image reveals a dusty protostellar disk with a radius of ~30 au seen close to edge-on and asymmetric structures along both the major and minor axes. While the asymmetry along the minor axis can be interpreted as the effect of the dust flaring, the asymmetry along the major axis comes from a real nonaxisymmetric structure. The C18O image cubes clearly show the gas in the disk that follows a Keplerian rotation pattern around a ~0.14 M ⊙ central protostar. Furthermore, there are ~1500 au scale streamer-like features of gas connecting from northeast, north-northwest, and northwest to the disk, as well as the bending outflow as seen in the 12CO (2-1) emission. At the apparent landing point of the NE streamer, there is SO (65-54) and SiO (5-4) emission detected. The spatial and velocity structure of the NE streamer can be interpreted as a free-falling gas with a conserved specific angular momentum, and the detection of the SO and SiO emission at the tip of the streamer implies the presence of accretion shocks. Our eDisk observations have unveiled that the Class 0 protostar in CB 68 has a Keplerian-rotating disk with a flaring and nonaxisymmetric structure associated with accretion streamers and outflows.
+abstract: 
+# We present observations of the Class 0 protostar IRAS 16544-1604 in CB 68 from the "Early Planet Formation in Embedded Disks (eDisk)" ALMA Large program. The ALMA observations target continuum and lines at 1.3 mm with an angular resolution of ~5 au. The continuum image reveals a dusty protostellar disk with a radius of ~30 au seen close to edge-on and asymmetric structures along both the major and minor axes. While the asymmetry along the minor axis can be interpreted as the effect of the dust flaring, the asymmetry along the major axis comes from a real nonaxisymmetric structure. The C18O image cubes clearly show the gas in the disk that follows a Keplerian rotation pattern around a ~0.14 M ⊙ central protostar. Furthermore, there are ~1500 au scale streamer-like features of gas connecting from northeast, north-northwest, and northwest to the disk, as well as the bending outflow as seen in the 12CO (2-1) emission. At the apparent landing point of the NE streamer, there is SO (65-54) and SiO (5-4) emission detected. The spatial and velocity structure of the NE streamer can be interpreted as a free-falling gas with a conserved specific angular momentum, and the detection of the SO and SiO emission at the tip of the streamer implies the presence of accretion shocks. Our eDisk observations have unveiled that the Class 0 protostar in CB 68 has a Keplerian-rotating disk with a flaring and nonaxisymmetric structure associated with accretion streamers and outflows.
 
 # Summary. An optional shortened abstract.
-summary: We present observations of the Class 0 protostar IRAS 16544-1604 in CB 68 from the "Early Planet Formation in Embedded Disks (eDisk)" ALMA Large program. The ALMA observations target continuum and lines at 1.3 mm with an angular resolution of ~5 au.
+summary: 
+# We present observations of the Class 0 protostar IRAS 16544-1604 in CB 68 from the "Early Planet Formation in Embedded Disks (eDisk)" ALMA Large program. The ALMA observations target continuum and lines at 1.3 mm with an angular resolution of ~5 au.
 
 tags:
 - Class 0 Protostar
@@ -99,7 +101,14 @@ links:
 ---
 
 <!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
-<sup>**Publication:**  The Astrophysical Journal, Volume 953, Issue 2, id.190, 22 pp.</sup>
+<span style="font-size:0.65em;">
+<strong>Publication:</strong> The Astrophysical Journal, Volume 953, Issue 2, id.190, 22 pp.
+</span>
+
+### Summary
+<span style="font-size:0.75em; text-align:justify; text-justify:inter-word; display:block">
+We present observations of the Class 0 protostar IRAS 16544-1604 in CB 68 from the "Early Planet Formation in Embedded Disks (eDisk)" ALMA Large program. The ALMA observations target continuum and lines at 1.3 mm with an angular resolution of ~5 au. Our eDisk observations have unveiled that the Class 0 protostar in CB 68 has a Keplerian-rotating disk with a flaring and nonaxisymmetric structure associated with accretion streamers and outflows.
+</span>
 
 <html>
   <style>
