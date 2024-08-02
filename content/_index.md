@@ -101,7 +101,7 @@ sections:
     id: firstauthor
     content:
       title: First Author Publications
-      subtitle: '(most recent shown first)'
+      subtitle: '(featured publications)'
       filters:
         folders:
           - publications_firstauthor
@@ -109,7 +109,7 @@ sections:
         exclude_featured: false
       archive:
         enable: true
-        text: See all co-author publications
+        text: See all first author publications
         link: publications_firstauthor/
     design:
       columns: '2'
@@ -118,7 +118,7 @@ sections:
     id: coauthor
     content:
       title: Co-Author Publications
-      subtitle: '(most recent shown first)'
+      subtitle: '(featured publications)'
       filters:
         folders:
           - publications_coauthor
