@@ -110,7 +110,7 @@ sections:
       archive:
         enable: true
         text: See all co-author publications
-        link: firstauthor/
+        link: publications_firstauthor/
     design:
       columns: '2'
       view: compact
@@ -127,7 +127,7 @@ sections:
       archive:
         enable: true
         text: See all co-author publications
-        link: coauthor/
+        link: publications_coauthor/
     design:
       columns: '2'
       view: compact
