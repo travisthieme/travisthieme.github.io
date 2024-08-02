@@ -107,7 +107,6 @@ sections:
           - publications_firstauthor
         featured_only: true
         exclude_featured: false
-        show_authors_only: true
       archive:
         enable: true
         text: See all first author publications
@@ -115,6 +114,7 @@ sections:
     design:
       columns: '2'
       view: compact
+      show_authors_only: true
   - block: collection
     id: coauthor
     content:
