@@ -105,8 +105,12 @@ sections:
       filters:
         folders:
           - publications_firstauthor
-        featured_only: false
+        featured_only: true
         exclude_featured: false
+      archive:
+        enable: true
+        text: See all co-author publications
+        link: firstauthor/
     design:
       columns: '2'
       view: compact
@@ -118,11 +122,11 @@ sections:
       filters:
         folders:
           - publications_coauthor
-        featured_only: false
+        featured_only: true
         exclude_featured: false
       archive:
         enable: true
-        text: See all co-author papers
+        text: See all co-author publications
         link: coauthor/
     design:
       columns: '2'
