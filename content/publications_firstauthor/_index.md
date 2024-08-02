@@ -1,6 +1,6 @@
 ---
 title: First Author Publications
-subtitle: (Most Recent Shown first)
+subtitle: (most recent shown first)
 cms_exclude: true
 
 # View.
